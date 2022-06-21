@@ -1,0 +1,30 @@
+---
+title: About us...
+layout: about
+date: 2022-06-11 15:37:59
+tags:
+ - About
+---
+
+## 我们是谁？
+BamBoO₂ノVOICE【BamBoOxygenノVOICE】－－竹氧之声，东方同人音乐社团，成立于2020年初。
+
+希望我们的作品能像我们的社团名一样能为您带来一点清凉！
+
+## 我们做什么？
+我们的作品主要风格为EDM, Easy Listening。
+
+## 成员
+### 主催
+莹莹
+### Arrange们
+HsiangNianian
+...
+
+<script src="https://utteranc.es/client.js"
+        repo="bamboo2voice/bamboo2voice.github.io"
+        issue-term="pathname"
+        theme="boxy-light"
+        crossorigin="anonymous"
+        async>
+</script>
